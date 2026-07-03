@@ -12,3 +12,4 @@ I create clean, creative digital products: dashboards, tools, interfaces, and ex
 
 Across all products, interface types may change, principles do not:  
 *clarity, focus, and trust.*
+# inward-OS
